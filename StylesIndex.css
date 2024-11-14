@@ -1,0 +1,21 @@
+* {
+
+}
+
+/*style for body*/
+body {
+	background-color: beige;
+}
+
+/*stle for container*/
+.container {
+	background-color: darkblue;
+	color: whitesmoke;
+}
+
+/*style for image*/
+
+img {
+width: 300px;
+}
+
